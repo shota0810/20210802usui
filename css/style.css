@@ -1,0 +1,43 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: blue;
+    
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+li{
+margin: 0 20px 0 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.firstview{
+    width: 50%;
+    margin: 0 0 0 auto;
+
+}
+
+.firstview img{
+    width: 100%;
+    position: relative;
+    top: 120px;
+}
+
+p{
+    font-size: 40px;
+    margin: 0;
+}
+
+.bar{
+    background: rgb(11, 11, 138);
+    width: 75%;
+    height: 100px;
+}
